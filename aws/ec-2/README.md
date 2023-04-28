@@ -1,0 +1,1 @@
+Use the following blog as guide: https://techdirectarchive.com/2022/05/31/how-to-install-packages-to-amazon-virtual-machine-using-terraform/
